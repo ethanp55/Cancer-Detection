@@ -1,1 +1,1 @@
-# Cancer-Detection
+This repo contains code that implements the U-Net CNN architecture.  It has been very efficacious in the medical field.  Here I train it on cancer images and test to see if the network can correctly identify cancerous cells.
